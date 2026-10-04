@@ -1,0 +1,37 @@
+{
+  "records": 1140,
+  "kinds": {
+    "world_manifest": 1,
+    "major_event": 19,
+    "resource_event": 953,
+    "counter_keyframe": 94,
+    "milestone": 66,
+    "golem_event": 6,
+    "run_summary": 1
+  },
+  "seed_u64": "17911097197626437575",
+  "rng_seed_u64": "7897602236245615709",
+  "damage_events": 1,
+  "damage_sum": 4,
+  "last_damage_health": 196,
+  "completed": false,
+  "terminal": {
+    "kind": "run_summary",
+    "time_years": 262219866.103013,
+    "completed": false,
+    "censored": true,
+    "dragon_health": 196,
+    "crystals_destroyed": 10,
+    "golem_accounting_delta": 0,
+    "skeleton_accounting_delta": 0,
+    "creeper_accounting_delta": 0
+  },
+  "adjacent_time_reversals": 1,
+  "time_reversal_note": "Emission order can backfill carrier histories; this count alone is not proof of a bug.",
+  "damage_time_range": [
+    226073682.138671,
+    226073682.138671
+  ],
+  "findings": [],
+  "full_inventory_certified": false
+}

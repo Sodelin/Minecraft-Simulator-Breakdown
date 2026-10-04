@@ -1,0 +1,43 @@
+{
+  "repeat_runs": [
+    {
+      "exit_code": 1,
+      "terminal": {
+        "kind": "run_summary",
+        "phase": "stronghold",
+        "time_years": 42994297.709667,
+        "completed": false,
+        "censored": true,
+        "step_budget_exhausted": true,
+        "audit_steps": 1000,
+        "dragon_health": 200,
+        "crystals_destroyed": 0,
+        "golem_accounting_delta": 0,
+        "skeleton_accounting_delta": 0,
+        "creeper_accounting_delta": 0
+      },
+      "ledger_sha256": "eacc5cb15362a34b3321048e03d60eeadca45bfe514f5d62ed0e6638b4bba9bf"
+    },
+    {
+      "exit_code": 1,
+      "terminal": {
+        "kind": "run_summary",
+        "phase": "stronghold",
+        "time_years": 42994297.709667,
+        "completed": false,
+        "censored": true,
+        "step_budget_exhausted": true,
+        "audit_steps": 1000,
+        "dragon_health": 200,
+        "crystals_destroyed": 0,
+        "golem_accounting_delta": 0,
+        "skeleton_accounting_delta": 0,
+        "creeper_accounting_delta": 0
+      },
+      "ledger_sha256": "eacc5cb15362a34b3321048e03d60eeadca45bfe514f5d62ed0e6638b4bba9bf"
+    }
+  ],
+  "identical_ledgers": true,
+  "max_steps": 1000,
+  "rng_help": 0
+}

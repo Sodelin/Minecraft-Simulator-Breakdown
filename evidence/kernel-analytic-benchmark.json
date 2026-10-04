@@ -1,0 +1,9 @@
+{
+  "label": "synthetic CTMC benchmark, not Minecraft physics",
+  "draws": 12000,
+  "seed": 2026,
+  "expected_probability_A": 0.25,
+  "observed_probability_A": 0.25583333333333336,
+  "expected_mean_absorption_ticks": 0.25,
+  "observed_mean_absorption_ticks": 0.24783407835343246
+}

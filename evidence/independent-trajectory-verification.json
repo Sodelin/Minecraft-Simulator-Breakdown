@@ -1,0 +1,11 @@
+{
+  "baseline_rows": 816,
+  "corrected_rows": 816,
+  "trajectory_rows": 758,
+  "trajectory_rows_identical": true,
+  "comparison_excludes": [
+    "world_manifest",
+    "counter_keyframe"
+  ],
+  "limitation": "Runs were wall-time censored, so final simulated years differ with throughput. The included shared trajectory is exact; this is not a full unassisted completion reproduction."
+}

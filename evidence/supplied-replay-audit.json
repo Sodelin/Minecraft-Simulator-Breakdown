@@ -1,0 +1,38 @@
+{
+  "records": 3668,
+  "kinds": {
+    "world_manifest": 1,
+    "major_event": 20,
+    "resource_event": 3192,
+    "counter_keyframe": 301,
+    "schematic_snapshot": 29,
+    "milestone": 104,
+    "golem_event": 21
+  },
+  "seed_u64": "17911097197626437575",
+  "rng_seed_u64": "7897602236245615709",
+  "damage_events": 38,
+  "damage_sum": 206,
+  "last_damage_health": 0,
+  "completed": true,
+  "terminal": null,
+  "adjacent_time_reversals": 65,
+  "time_reversal_note": "Emission order can backfill carrier histories; this count alone is not proof of a bug.",
+  "damage_time_range": [
+    226073682.138671,
+    1975124500.924769
+  ],
+  "findings": [
+    {
+      "severity": "bug",
+      "code": "damage_clock_mismatch",
+      "count": 38
+    },
+    {
+      "severity": "bug",
+      "code": "counter_health_regression",
+      "count": 187
+    }
+  ],
+  "full_inventory_certified": false
+}
